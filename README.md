@@ -1,4 +1,2 @@
-只有非常努力，才能看起來豪不費力。
-$ git rm readme.md 
-$ git commit 
-$ git push 
+Python learner
+程式碼可能有點粗糙，請高手手下留情。
